@@ -24,7 +24,7 @@
     alt="Featured｜HelloGitHub"
     width="250"
     height="55"
-  />
+  /> 
 </a>
 <a href="https://www.uneed.best/tool/sink" target="_blank">
   <img
